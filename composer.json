@@ -1,0 +1,19 @@
+{
+  "name": "wfstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/wfstore",
+  "keywords": ["wfstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/wfstore/init-composer",
+    "issues": "https://github.com/wfstore/init-composer/issues",
+    "docs": "https://github.com/wfstore/init-composer/wiki",
+    "forum": "https://github.com/wfstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
